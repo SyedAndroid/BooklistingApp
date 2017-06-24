@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="desx_size">64dp</dimen>
+    <dimen name="height_images">188dp</dimen>
+    <dimen name="width_images">128dp</dimen>
+    <dimen name="padding_images">8dp</dimen>
+    <dimen name="search_box_size">150dp</dimen>
+</resources>
